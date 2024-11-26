@@ -70,7 +70,7 @@ pollster_pages = [PollsterData, PollsterData_ext]
 machinelearning_pages = [SentimentAnalysis]
 conclusion_pages = [Conclusion]
 
-st.logo("ALL/OMD_logo.png", icon_image="ALL/OMD_logo.png")
+#st.logo("ALL/OMD_logo.png", icon_image="ALL/OMD_logo.png")
 
 page_dict = {}
 
